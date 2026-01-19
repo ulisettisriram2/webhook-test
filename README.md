@@ -1,2 +1,2 @@
 # webhook-test
-This is test
+echo "This is test"
