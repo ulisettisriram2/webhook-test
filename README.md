@@ -1,5 +1,2 @@
 # webhook-test
 echo "This is test"
-Adding another entry
-My name is sriram
-sriram is my name
